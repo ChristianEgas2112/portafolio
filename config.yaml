@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
-languageCode: "en-es"
-title: "Christian Pesantes"
+languageCode: "en-us"
+title: "Hugo Profile"
 theme: tales
 
 outputs:
@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Sisgit"
+  title: "Christian Pesantes"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
